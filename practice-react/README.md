@@ -1,3 +1,13 @@
+# npm install
+
+Creating and rendering React elements
+Introducing JSX
+Creating a React component
+Rendering
+Managing state with hooks
+Using multi-state variables
+Fetching data
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
